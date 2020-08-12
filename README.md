@@ -1,8 +1,8 @@
 # Diabetes Predictor
 
-  This Project was made to make accurate predictions about whether a person has Diabetes or not by using Deep Learning Algorithms.
-  I deployed the neural network model using Flask API. I trained various deep learning algorithms and finally used Gradient Boost
-  for the project.
+  This Project was made to make accurate predictions about whether a person has Diabetes or not by using Machine Learning Algorithms.
+  I deployed the Machine Learning model using Flask API. I trained various machine learning algorithms and finally used Gradient Boost
+  for the project as it gave the best results.
   
  
 # Technologies Used: #
@@ -59,6 +59,12 @@
    
    
    ![patient2_result](https://user-images.githubusercontent.com/51885421/89997156-63ca2f80-dca9-11ea-9620-16b91f4fc1d0.png)
+   
+   
+   8. Do visit my Project on predicting chances of having Heart Disease by visiting the following link:
+   
+   
+   https://github.com/shreyrai99/Heart-Disease-Predictor
    
    
    
