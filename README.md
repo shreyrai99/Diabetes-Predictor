@@ -44,21 +44,21 @@
       0 means he is safe  <br />
    
    
-   6. Demonstartion of Patient having Diabetes 
+   6. Demonstartion For Patients having Diabetes 
    
    ![patient1_data](https://user-images.githubusercontent.com/51885421/89995572-44ca9e00-dca7-11ea-85c3-34db6481f355.png)
    
    
-   ![patient1_result](https://user-images.githubusercontent.com/51885421/89995586-498f5200-dca7-11ea-87ad-9705d7bdd504.png)
+   ![patient1_result](https://user-images.githubusercontent.com/51885421/89997140-5dd44e80-dca9-11ea-92bd-4f107d6a0d6d.png)
    
    
    
-   7. Demonstartion of Patient Not having Diabetes
+   7. Demonstartions For Patients Not having Diabetes
    
    ![patient2_data](https://user-images.githubusercontent.com/51885421/89995602-4f853300-dca7-11ea-9faa-f22a8483520f.png)
    
    
-   ![patient2_result](https://user-images.githubusercontent.com/51885421/89995615-557b1400-dca7-11ea-99f7-9d78a8457366.png)
+   ![patient2_result](https://user-images.githubusercontent.com/51885421/89997156-63ca2f80-dca9-11ea-9620-16b91f4fc1d0.png)
    
    
    
