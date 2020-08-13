@@ -4,6 +4,11 @@
   I deployed the Machine Learning model using Flask API. I trained various machine learning algorithms and finally used Gradient Boost
   for the project as it gave the best results.
   
+  
+  The Model is deployed on Heroku at the following link:
+  
+  https://diabetes-prediction-by-shrey.herokuapp.com/
+  
  
 # Technologies Used: #
   I used the following tools and technologies in order to successfully make the project: <br />
