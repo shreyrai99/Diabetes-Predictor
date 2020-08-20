@@ -1,6 +1,8 @@
 # Diabetes Predictor
 
   This Project was made to make accurate predictions about whether a person has Diabetes or not by using Machine Learning Algorithms.
+  This project ensures timely detection of Diabetes so that no time is wasted and the user doesnot have to wait for lengthy hospital 
+  procedures and wait for a long time to get the result.
   I deployed the Machine Learning model using Flask API. I trained various machine learning algorithms and finally used Gradient Boost
   for the project as it gave the best results.
   
