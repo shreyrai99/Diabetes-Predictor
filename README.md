@@ -23,24 +23,20 @@
     
    
   # Project Structure #
-   This project has four major parts :
-   1. model.py : This contains code fot our Machine Learning model to predict the chances of a patient having Diabetes. 
-   2. app.py: This contains Flask APIs that receives patient's details through GUI or API calls, computes the precited value based on      our model and predicts whether the patient has Diabetes or not.
-   3. templates: This folder contains the HTML template to allow user to enter various fields inorder to know his chances of having        disease. 
-   4. static: It contains the CSS part of the project. 
+   This project has four major parts : <br />
+   1. model.py : This contains code fot our Machine Learning model to predict the chances of a patient having Diabetes. <br />
+   2. app.py: This contains Flask APIs that receives patient's details through GUI or API calls, computes the precited value based on our model and predicts whether the  patient has Diabetes or not. <br />
+   3. templates: This folder contains the HTML template to allow user to enter various fields inorder to know his chances of having        disease.  <br />
+   4. static: It contains the CSS part of the project.  <br />
    
     
   # Running the Model: #
-   1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
-   python model.py 
-   
-   
-   This would create a serialized version of our model into a file model.pkl 
-   2. Run app.py using below command to start Flask API 
-   python app.py <br />
-   By default, flask will run on port 5000. 
-   3. Navigate to URL http://localhost:5000   
-   4. We will see the below home page where we have to enter the details. 
+   1. Ensure that you are in the project home directory. Create the machine learning model by running below command -   python model.py  <br />
+   This would create a serialized version of our model into a file model.pkl  <br />   
+   2. Run app.py using below command to start Flask API python app.py <br />
+   By default, flask will run on port 5000.  <br />   
+   3. Navigate to URL http://localhost:5000   <br />   
+   4. We will see the below home page where we have to enter the details.  <br />   
    
    
    ![Home_Page](https://user-images.githubusercontent.com/51885421/89995555-3ed4bd00-dca7-11ea-9e69-142ec9502327.png)
